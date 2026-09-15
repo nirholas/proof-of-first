@@ -1,0 +1,11 @@
+{
+  "slug": "proof-of-first",
+  "name": "Proof of First",
+  "kind": "proof",
+  "description": "Timestamp a claim, canonical URL, and content digest as a signed first-of-kind record.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
