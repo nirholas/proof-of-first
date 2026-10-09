@@ -43,3 +43,7 @@ See [docs/PRODUCT.md](docs/PRODUCT.md) for product boundaries and extension poin
 ## License
 
 MIT
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/proof-of-first&type=Date)](https://www.star-history.com/#nirholas/proof-of-first&Date)
