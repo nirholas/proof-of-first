@@ -1,0 +1,26 @@
+# proof-of-first
+
+> Timestamp a claim, canonical URL, and content digest as a signed first-of-kind record.
+
+proof-of-first is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md): install, usage and reference
+- [Why this exists](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#why-this-exists)
+- [Working features](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#working-features)
+- [Status](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#status)
+- [Run](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#run)
+- [Transaction v1 rules](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#transaction-v1-rules)
+- [License](https://github.com/nirholas/proof-of-first/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/proof-of-first/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/proof-of-first/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/proof-of-first)
+- [Issues](https://github.com/nirholas/proof-of-first/issues)
+- [Discussions](https://github.com/nirholas/proof-of-first/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
