@@ -8,7 +8,7 @@ Timestamp a claim, canonical URL, and content digest as a signed first-of-kind r
 
 - Source: https://github.com/nirholas/proof-of-first
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
